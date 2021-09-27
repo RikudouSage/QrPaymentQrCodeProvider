@@ -23,6 +23,7 @@ final class QrCodeProviderLocator
             $providers = [
                 new EndroidQrCode3Provider(),
                 new EndroidQrCode4Provider(),
+                new BaconQrCodeProvider(),
             ];
         }
         $this->providers = $providers;

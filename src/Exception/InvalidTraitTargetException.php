@@ -4,7 +4,6 @@ namespace Rikudou\QrPaymentQrCodeProvider\Exception;
 
 use LogicException;
 
-class InvalidTraitTargetException extends LogicException
+final class InvalidTraitTargetException extends LogicException
 {
-
 }
