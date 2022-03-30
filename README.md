@@ -4,6 +4,8 @@ Supported libraries:
   - [rikudou/euqrpayment](https://github.com/RikudouSage/QrPaymentEU)
   - [rikudou/skqrpayment](https://github.com/RikudouSage/QrPaymentSK)
   - [rikudou/czqrpayment](https://github.com/RikudouSage/QrPaymentCZ)
+  - [hubipe/huqrpayment](https://github.com/hubipe/QrPaymentHU)
+
 
 Supported QR code providers:
   - `endroid/qr-code` (v 4.x)
